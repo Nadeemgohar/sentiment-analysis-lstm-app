@@ -6,10 +6,11 @@ This app supports **both Machine Learning and Deep Learning models** for sentime
 ---
 
 ## 🚀 Live Demo  
-🔗 [Live App on Streamlit](https://sentimentanalysismodel07.streamlit.app/)
+🔗 [Live App on Streamlit]([https://sentimentanalysismodel07.streamlit.app/](https://sentiment-analysis-lstm-app-fa9r4xnds4vpvrqetysnmx.streamlit.app/))
 
 ## 🚀 Video Demo  
-[https://github.com/user-attachments/assets/ef3e2fb8-c473-48d7-80c2-a54296de152c](https://github.com/user-attachments/assets/ef3e2fb8-c473-48d7-80c2-a54296de152c)
+[Screencast from 2026-07-15 01-48-36.webm](https://github.com/user-attachments/assets/0cf7ec87-7060-42e9-8cb1-7670c68f5987)
+
 
 ---
 
@@ -36,22 +37,9 @@ This app supports **both Machine Learning and Deep Learning models** for sentime
    - Sentiment: 😊 Positive / ☹️ Negative  
    - Confidence Score (0–1)  
 
----
-
-## 📸 Screenshots
-### 🏠 Home Page
-<img width="1899" height="828" alt="image" src="https://github.com/user-attachments/assets/10d9d8fc-c345-4279-92ab-b903405000a6" />
-
-### 😊 Positive Sentiment Prediction
-<img width="1895" height="855" alt="image" src="https://github.com/user-attachments/assets/0858d871-479c-4097-8e5b-e4ec03ee8ccf" />
-
-### ☹️ Negative Sentiment Prediction
-<img width="1916" height="844" alt="image" src="https://github.com/user-attachments/assets/ee94dd6e-5dd6-4a15-89a2-b204d3b98870" />
-
----
 
 ## ⚙️ Tech Stack  
-- **Python 3.9+**  
+- **Python 3.9+ -- 3.11**  
 - **Streamlit** (Web App)  
 - **NumPy & Pandas** (Data Processing)  
 - **TensorFlow / Keras** (Deep Learning Model)  
@@ -70,16 +58,9 @@ This app supports **both Machine Learning and Deep Learning models** for sentime
 ## 👨‍💻 Author  
 **Nadeem Gohar**  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Kaggle](https://www.kaggle.com/your-kaggle)  
-- 💻 [GitHub](https://github.com/your-username)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/nadeem-gohar-0708382b0/))  
+- 💻 [GitHub](https://github.com/Nadeemgohar)  
 
----
-
-## ❤️ Acknowledgements  
-- [TensorFlow/Keras](https://www.tensorflow.org/)  
-- [Scikit-learn](https://scikit-learn.org/stable/)  
-- [Streamlit Documentation](https://docs.streamlit.io/)  
 
 ---
 
