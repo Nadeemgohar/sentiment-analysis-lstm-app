@@ -58,7 +58,7 @@ This app supports **both Machine Learning and Deep Learning models** for sentime
 ## 👨‍💻 Author  
 **Nadeem Gohar**  
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/nadeem-gohar-0708382b0/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/nadeem-gohar-0708382b0/) 
 - 💻 [GitHub](https://github.com/Nadeemgohar)  
 
 
