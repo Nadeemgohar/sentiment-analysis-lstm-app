@@ -1,4 +1,4 @@
-# 📊 Sentiment Analysis Web App
+# 📊 Sentiment Analysis Web Application
 
 An **interactive AI-powered web application** built with **Streamlit** that predicts the **sentiment of text** as positive or negative.  
 This app supports **both Machine Learning and Deep Learning models** for sentiment analysis.
