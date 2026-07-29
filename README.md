@@ -4,7 +4,6 @@ An **interactive AI-powered web application** built with **Streamlit** that pred
 This app supports **both Machine Learning and Deep Learning models** for sentiment analysis.
 
 ---
-
 ## 🚀 Live Demo  
 🔗 https://sentiment-analysis-lstm-app-fa9r4xnds4vpvrqetysnmx.streamlit.app/
 
